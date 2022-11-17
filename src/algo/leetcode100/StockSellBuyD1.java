@@ -7,7 +7,7 @@ package algo.leetcode100;
 // prices = [7, 1, 3, 4, 5, 2, 6, 1]
 
 
-public class StockSellBuy {
+public class StockSellBuyD1 {
     public static void main(String args[]) {
         int []prices = {7, 1, 3, 4, 5, 2, 6, 1};
         int n = prices.length;
