@@ -69,3 +69,20 @@ public class SinglyLinkedList {
         tail = null;
     }
 }
+
+
+//    static SinglyLinkedListNode insertNodeAtTail(SinglyLinkedListNode head, int data) {
+//
+//        if(head == null) {
+//            return new SinglyLinkedListNode(data);
+//        } else {
+//            SinglyLinkedListNode temp = head;
+//            while(temp.next != null) {
+//                temp = temp.next;
+//            }
+//            temp.next = new SinglyLinkedListNode(data);
+//            return head;
+//        }
+//
+//
+//    }
