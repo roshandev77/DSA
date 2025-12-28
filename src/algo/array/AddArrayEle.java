@@ -8,7 +8,7 @@ public class AddArrayEle {
         for (int i = 0; i < arr.length; i++) {
             sum += arr[i];
         }
-        System.out.println("Sum : "+ sum);
+        System.out.println("Sum is : "+ sum);
     }
 
 }
